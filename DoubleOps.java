@@ -1,3 +1,4 @@
+// nice layout and variable names. good work!
 class DoubleOps {
     public static void main(String[] args) {
         int num = Integer.parseInt(args[0]);
